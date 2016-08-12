@@ -1,0 +1,8 @@
+vendor
+log
+.idea
+tests/log
+tests/config/keys.dist.php
+tests/config/salt.config.php
+build/
+phpunit.xml
